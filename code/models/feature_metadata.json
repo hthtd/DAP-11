@@ -1,0 +1,32 @@
+{
+  "features_a": [
+    "area",
+    "rooms",
+    "toilets",
+    "floors",
+    "property_type",
+    "legal_status",
+    "district"
+  ],
+  "features_b": [
+    "area",
+    "rooms",
+    "toilets",
+    "floors",
+    "property_type",
+    "legal_status",
+    "h3_index",
+    "dist_cbd_km",
+    "dist_nearest_metro_km",
+    "dist_nearest_hospital_km",
+    "dist_nearest_university_km",
+    "latitude",
+    "longitude"
+  ],
+  "categorical_cols": [
+    "property_type",
+    "legal_status",
+    "district",
+    "h3_index"
+  ]
+}
